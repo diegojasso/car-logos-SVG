@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Acura",
+    "slug": "acura",
+    "country": "Japan",
+    "parent_company": "Honda Motor Company",
+    "image": {
+      "svg": "./logos/acura.svg"
+    }
+  },
+  {
+    "name": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "country": "Italy",
+    "parent_company": "Stellantis",
+    "image": {
+      "svg": "./logos/alfa-romeo.svg"
+    }
+  },
+  {
+    "name": "Aston Martin",
+    "slug": "aston-martin",
+    "country": "United Kingdom",
+    "parent_company": "Aston Martin Lagonda Global Holdings",
+    "image": {
+      "svg": "./logos/aston-martin.svg"
+    }
+  },
+  {
+    "name": "Audi",
+    "slug": "audi",
+    "country": "Germany",
+    "parent_company": "Volkswagen Group",
+    "image": {
+      "svg": "./logos/audi.svg"
+    }
+  },
+  {
+    "name": "Bentley",
+    "slug": "bentley",
+    "country": "United Kingdom",
+    "parent_company": "Volkswagen Group",
+    "image": {
+      "svg": "./logos/bentley.svg"
+    }
+  },
+  {
+    "name": "BMW",
+    "slug": "bmw",
+    "country": "Germany",
+    "parent_company": "BMW Group",
+    "image": {
+      "svg": "./logos/bmw.svg"
+    }
+  },
+  {
+    "name": "Buick",
+    "slug": "buick",
+    "country": "United States",
+    "parent_company": "General Motors",
+    "image": {
+      "svg": "./logos/buick.svg"
+    }
+  },
+  {
+    "name": "Cadillac",
+    "slug": "cadillac",
+    "country": "United States",
+    "parent_company": "General Motors",
+    "image": {
+      "svg": "./logos/cadillac.svg"
+    }
+  },
+  {
+    "name": "Chevrolet",
+    "slug": "chevrolet",
+    "country": "United States",
+    "parent_company": "General Motors",
+    "image": {
+      "svg": "./logos/chevrolet.svg"
+    }
+  },
+  {
+    "name": "Chrysler",
+    "slug": "chrysler",
+    "country": "United States",
+    "parent_company": "Stellantis",
+    "image": {
+      "svg": "./logos/chrysler.svg"
+    }
+  },
+  {
+    "name": "Dodge",
+    "slug": "dodge",
+    "country": "United States",
+    "parent_company": "Stellantis",
+    "image": {
+      "svg": "./logos/dodge.svg"
+    }
+  },
+  {
+    "name": "Ferrari",
+    "slug": "ferrari",
+    "country": "Italy",
+    "parent_company": "Ferrari N.V.",
+    "image": {
+      "svg": "./logos/ferrari.svg"
+    }
+  },
+  {
+    "name": "Fiat",
+    "slug": "fiat",
+    "country": "Italy",
+    "parent_company": "Stellantis",
+    "image": {
+      "svg": "./logos/fiat.svg"
+    }
+  },
+  {
+    "name": "Ford",
+    "slug": "ford",
+    "country": "United States",
+    "parent_company": "Ford Motor Company",
+    "image": {
+      "svg": "./logos/ford.svg"
+    }
+  },
+  {
+    "name": "Genesis",
+    "slug": "genesis",
+    "country": "South Korea",
+    "parent_company": "Hyundai Motor Group",
+    "image": {
+      "svg": "./logos/genesis.svg"
+    }
+  },
+  {
+    "name": "GMC",
+    "slug": "gmc",
+    "country": "United States",
+    "parent_company": "General Motors",
+    "image": {
+      "svg": "./logos/gmc.svg"
+    }
+  },
+  {
+    "name": "Honda",
+    "slug": "honda",
+    "country": "Japan",
+    "parent_company": "Honda Motor Company",
+    "image": {
+      "svg": "./logos/honda.svg"
+    }
+  },
+  {
+    "name": "Hyundai",
+    "slug": "hyundai",
+    "country": "South Korea",
+    "parent_company": "Hyundai Motor Group",
+    "image": {
+      "svg": "./logos/hyundai.svg"
+    }
+  },
+  {
+    "name": "Infiniti",
+    "slug": "infiniti",
+    "country": "Japan",
+    "parent_company": "Nissan Motor Company",
+    "image": {
+      "svg": "./logos/infiniti.svg"
+    }
+  },
+  {
+    "name": "Jaguar",
+    "slug": "jaguar",
+    "country": "United Kingdom",
+    "parent_company": "Tata Motors (JLR)",
+    "image": {
+      "svg": "./logos/jaguar.svg"
+    }
+  },
+  {
+    "name": "Jeep",
+    "slug": "jeep",
+    "country": "United States",
+    "parent_company": "Stellantis",
+    "image": {
+      "svg": "./logos/jeep.svg"
+    }
+  },
+  {
+    "name": "Kia",
+    "slug": "kia",
+    "country": "South Korea",
+    "parent_company": "Hyundai Motor Group",
+    "image": {
+      "svg": "./logos/kia.svg"
+    }
+  },
+  {
+    "name": "Lamborghini",
+    "slug": "lamborghini",
+    "country": "Italy",
+    "parent_company": "Volkswagen Group",
+    "image": {
+      "svg": "./logos/lamborghini.svg"
+    }
+  },
+  {
+    "name": "Land Rover",
+    "slug": "land-rover",
+    "country": "United Kingdom",
+    "parent_company": "Tata Motors (JLR)",
+    "image": {
+      "svg": "./logos/land-rover.svg"
+    }
+  },
+  {
+    "name": "Lexus",
+    "slug": "lexus",
+    "country": "Japan",
+    "parent_company": "Toyota Motor Corporation",
+    "image": {
+      "svg": "./logos/lexus.svg"
+    }
+  },
+  {
+    "name": "Lincoln",
+    "slug": "lincoln",
+    "country": "United States",
+    "parent_company": "Ford Motor Company",
+    "image": {
+      "svg": "./logos/lincoln.svg"
+    }
+  },
+  {
+    "name": "Lucid",
+    "slug": "lucid",
+    "country": "United States",
+    "parent_company": "Lucid Group",
+    "image": {
+      "svg": "./logos/lucid.svg"
+    }
+  },
+  {
+    "name": "Maserati",
+    "slug": "maserati",
+    "country": "Italy",
+    "parent_company": "Stellantis",
+    "image": {
+      "svg": "./logos/maserati.svg"
+    }
+  },
+  {
+    "name": "Mazda",
+    "slug": "mazda",
+    "country": "Japan",
+    "parent_company": "Mazda Motor Corporation",
+    "image": {
+      "svg": "./logos/mazda.svg"
+    }
+  },
+  {
+    "name": "McLaren",
+    "slug": "mclaren",
+    "country": "United Kingdom",
+    "parent_company": "McLaren Automotive",
+    "image": {
+      "svg": "./logos/mclaren.svg"
+    }
+  },
+  {
+    "name": "Mercedes-Benz",
+    "slug": "mercedes-benz",
+    "country": "Germany",
+    "parent_company": "Mercedes-Benz Group",
+    "image": {
+      "svg": "./logos/mercedes-benz.svg"
+    }
+  },
+  {
+    "name": "Mini",
+    "slug": "mini",
+    "country": "United Kingdom",
+    "parent_company": "BMW Group",
+    "image": {
+      "svg": "./logos/mini.svg"
+    }
+  },
+  {
+    "name": "Mitsubishi",
+    "slug": "mitsubishi",
+    "country": "Japan",
+    "parent_company": "Mitsubishi Motors / Nissan-Renault-Mitsubishi Alliance",
+    "image": {
+      "svg": "./logos/mitsubishi.svg"
+    }
+  },
+  {
+    "name": "Nissan",
+    "slug": "nissan",
+    "country": "Japan",
+    "parent_company": "Nissan Motor Company",
+    "image": {
+      "svg": "./logos/nissan.svg"
+    }
+  },
+  {
+    "name": "Polestar",
+    "slug": "polestar",
+    "country": "Sweden",
+    "parent_company": "Geely / Volvo Cars",
+    "image": {
+      "svg": "./logos/polestar.svg"
+    }
+  },
+  {
+    "name": "Porsche",
+    "slug": "porsche",
+    "country": "Germany",
+    "parent_company": "Volkswagen Group",
+    "image": {
+      "svg": "./logos/porsche.svg"
+    }
+  },
+  {
+    "name": "Ram",
+    "slug": "ram",
+    "country": "United States",
+    "parent_company": "Stellantis",
+    "image": {
+      "svg": "./logos/ram.svg"
+    }
+  },
+  {
+    "name": "Rivian",
+    "slug": "rivian",
+    "country": "United States",
+    "parent_company": "Rivian Automotive",
+    "image": {
+      "svg": "./logos/rivian.svg"
+    }
+  },
+  {
+    "name": "Rolls-Royce",
+    "slug": "rolls-royce",
+    "country": "United Kingdom",
+    "parent_company": "BMW Group",
+    "image": {
+      "svg": "./logos/rolls-royce.svg"
+    }
+  },
+  {
+    "name": "Subaru",
+    "slug": "subaru",
+    "country": "Japan",
+    "parent_company": "Subaru Corporation",
+    "image": {
+      "svg": "./logos/subaru.svg"
+    }
+  },
+  {
+    "name": "Tesla",
+    "slug": "tesla",
+    "country": "United States",
+    "parent_company": "Tesla, Inc.",
+    "image": {
+      "svg": "./logos/tesla.svg"
+    }
+  },
+  {
+    "name": "Toyota",
+    "slug": "toyota",
+    "country": "Japan",
+    "parent_company": "Toyota Motor Corporation",
+    "image": {
+      "svg": "./logos/toyota.svg"
+    }
+  },
+  {
+    "name": "Volkswagen",
+    "slug": "volkswagen",
+    "country": "Germany",
+    "parent_company": "Volkswagen Group",
+    "image": {
+      "svg": "./logos/volkswagen.svg"
+    }
+  },
+  {
+    "name": "Volvo",
+    "slug": "volvo",
+    "country": "Sweden",
+    "parent_company": "Geely",
+    "image": {
+      "svg": "./logos/volvo.svg"
+    }
+  },
+  {
+    "name": "BYD",
+    "slug": "byd",
+    "country": "China",
+    "parent_company": "BYD Company",
+    "image": {
+      "svg": "./logos/byd.svg"
+    }
+  },
+  {
+    "name": "VinFast",
+    "slug": "vinfast",
+    "country": "Vietnam",
+    "parent_company": "Vingroup",
+    "image": {
+      "svg": "./logos/vinfast.svg"
+    }
+  },
+  {
+    "name": "Lotus",
+    "slug": "lotus",
+    "country": "United Kingdom",
+    "parent_company": "Geely",
+    "image": {
+      "svg": "./logos/lotus.svg"
+    }
+  }
+]

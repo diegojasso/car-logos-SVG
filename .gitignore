@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+download_logos.py
+fix_logos.py
+fix_logos2.py
+download_results.json
+validate_and_build.py
+brands.json

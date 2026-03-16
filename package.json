@@ -1,0 +1,28 @@
+{
+  "name": "car-logos-svg",
+  "version": "1.0.0",
+  "description": "Collection of 47 car manufacturer SVG logos with structured metadata, focused on brands sold in the US market",
+  "main": "data.json",
+  "keywords": [
+    "car",
+    "logos",
+    "svg",
+    "car-logos",
+    "automobile",
+    "vehicle",
+    "brand",
+    "manufacturer",
+    "automotive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "files": [
+    "logos/",
+    "data.json",
+    "README.md",
+    "LICENSE"
+  ]
+}
