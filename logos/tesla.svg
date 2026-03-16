@@ -1,7 +1,6 @@
 <svg
    viewBox="0 0 180 50"
    id="svg5"
-   inkscape:
    xmlns="http://www.w3.org/2000/svg"><g
      id="layer1"><g
        id="g604"
@@ -12,10 +11,6 @@
          id="path248" /><path
          style="fill:#153a85;stroke-width:1;fill-opacity:1;stroke:none"
          id="path356"
-         sodipodi:r1="7.4626613"
-         sodipodi:r2="2.2387984"
-         sodipodi:arg1="0.52359878"
-         sodipodi:arg2="1.0471976"
          d="m 49.428095,150.61401 -5.343455,-1.79248 -1.1194,5.52381 -1.119399,-5.52381 -5.343455,1.79248 4.224056,-3.73133 -4.224056,-3.73134 5.343455,1.79248 1.1194,-5.52381 1.119399,5.52381 5.343455,-1.79248 -4.224056,3.73134 z"
          transform="matrix(0.48251902,0,0,0.48251902,23.411893,89.910323)" /><path
          style="fill:#153a85;stroke-width:0.264583;fill-opacity:1;stroke:none"

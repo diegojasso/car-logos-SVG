@@ -1,13 +1,9 @@
 <svg
    xmlns="http://www.w3.org/2000/svg"
-   inkscape:
    viewBox="0 0 500.00001 117.88537"
    y="0px"
    x="0px"
-   id="Layer_1"><metadata
-   id="metadata13"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path
+   id="Layer_1"><path
    style="fill:#232323;fill-opacity:1;stroke-width:2.23273"
    id="path2"
    d="m 278.64607,42.643341 h 8.26109 c 1.5629,0 2.67927,-0.446546 3.34909,-2.009455 0.66981,-1.116363 1.33963,-2.455999 2.00945,-3.572363 0.44655,-0.893091 -0.22327,-2.009454 -1.11636,-2.009454 h -8.26109 c -1.56291,0 -2.67928,0.446545 -3.34909,2.009454 -0.66982,1.116364 -1.33964,2.456 -2.00946,3.572363 -0.44654,0.893091 0,2.009455 1.11637,2.009455" />
